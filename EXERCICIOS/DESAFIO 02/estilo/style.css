@@ -63,6 +63,20 @@ section{
     
 }
 
+section > p{
+    padding-bottom: 1em;
+}
+
+section#img01{
+        background-image: url('../imagens/background001.jpg');
+}
+
+section#img02{
+    background-image: url('../imagens/background002.jpg');
+
+
+}
+
 section.normal{
     background-color: white;
     color: rgba(0, 0, 0, 0.959);
